@@ -34,7 +34,7 @@ Thumbs.db
 *.swo
 *~
 
-# SSL (keep structure, not actual certs)
+# SSL - Commit all certificates
 # ssl/*.pem
 # ssl/*.key
 
